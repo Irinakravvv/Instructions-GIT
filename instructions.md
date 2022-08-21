@@ -35,5 +35,7 @@
 
 ![Лого](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Markdown_cheat_sheet_bulgarian.pdf/page1-1200px-Markdown_cheat_sheet_bulgarian.pdf.jpg "Шпаргалка")
 
+ #### Цитаты ####
 
+ 
 
