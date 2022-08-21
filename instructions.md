@@ -14,3 +14,17 @@
 *git diff* - вывод изменений на текущий момент по отношению к последнему коммиту
 
 *git checkout main/master/название_ветки/хэш-номер_коммита* - переход между изменениями или возврат к текущему состоянию
+
+*git show хеш коммита* - Просмотр заданного коммита
+
+*git all* - просмотр истории коммитов
+
+## Полезные ссылки ##
+
+Ссылка на инструкции использования языка Markdown [ссылка](https://habr.com/ru/company/ruvds/blog/599929/?ysclid=l73g1uawu631004005])  - ссылка с тайтлом.
+
+
+[Эта ссылка](http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/) - ссылка без заголовка.
+
+<http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/>  -  ссылка безанкорная
+
