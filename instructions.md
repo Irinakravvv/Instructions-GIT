@@ -31,3 +31,9 @@
 
 ### Картинки ###
 
+![лого](https://miro.medium.com/max/1400/1*bvMUGHtl8oJP5rZPV7X8eg.png)
+
+![Лого](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Markdown_cheat_sheet_bulgarian.pdf/page1-1200px-Markdown_cheat_sheet_bulgarian.pdf.jpg "Шпаргалка")
+
+
+
